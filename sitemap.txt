@@ -1,2 +1,3 @@
 https://sunilpeesapati.github.io/
 https://sunilpeesapati.github.io/ragas_of_songs/
+https://sunilpeesapati.github.io/ragas_of_songs/data/Telugu.csv
